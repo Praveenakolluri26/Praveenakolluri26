@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Praveenakolluri26
 - 👀 I’m interested in Competitive Programming and Web Development
-- 🌱 I’m currently learning Btech Computer Science and Engineering with Artificial Intelligence and Machine Learning
+- 🌱 I’m currently doing Btech Computer Science and Engineering with Artificial Intelligence and Machine Learning
 - 💞️ I’m looking to collaborate on software projects
 - 📫 praveenakolluri2002@gmail.com.
 
