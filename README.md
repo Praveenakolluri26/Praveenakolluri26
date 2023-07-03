@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/praveena-kolluri-781988200/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://wassuppl.wordpress.com/">
+  <a href="https://wassuppl.wordpress.com/" target="_blank">
     <img src="https://img.shields.io/badge/My%20Blog%20-808080" width="75">
   </a>
     <h1>
