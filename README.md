@@ -19,8 +19,6 @@
 - :telescope: I am a dynamic and versatile B.tech final year student, constantly expanding my knowledge in software development, content writing, and design. Avid learner
   in the MERN stack and constantly exploring new technologies.
 
-- :seedling: In addition to my technical growth, I possess a natural flair for creative content writing, design, and poetry, constantly enhancing my ability to create visually stunning user interfaces.
-
 - :zap: What sets me apart is my exceptional communication skills, bridging the gap between technical and non-technical stakeholders while fostering teamwork and collaboration. I actively engage in extracurricular activities, giving captivating presentations and continuously seeking knowledge through webinars and seminars, with a strong commitment to lifelong learning.
 
 - :mailbox: Passionate, versatile, and driven by a hunger for knowledge, I seek opportunities to apply my diverse skill set, including content writing, design, exceptional communication, and team-building, to make a meaningful impact in any multifaceted role. mail me at praveenakolluri2002@gmail.com
@@ -43,12 +41,12 @@
   <h3> Databases </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MySQL"  alt="MongoDB" width="40" height="40"/>&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp&nbsp;
   <h3> Tools </h3>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="Codepen" **alt="Codepen" width="40" height="40"/>&nbsp&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp&nbsp;
 </div>
       
 </center>
