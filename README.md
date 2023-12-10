@@ -15,7 +15,7 @@
 </h1>
 </div>
 
-### :woman_technologist: About Me :
+<h1>About Me :</h1>
 - :telescope: I am a dynamic and versatile B.tech final year student, constantly expanding my knowledge in software development, content writing, and design. Avid learner
   in the MERN stack and constantly exploring new technologies.
 
