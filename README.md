@@ -1,71 +1,112 @@
 # Hi 👋, I'm Praveena Kolluri
 
-**Product Support Engineer @ UiPath | Automation | Kubernetes | Linux | AI/ML**
+### Automation Engineer | RPA & Intelligent Automation | Exploring Agentic Automation & AI
 
-I’m a Product Support Engineer passionate about troubleshooting complex technical problems, understanding how systems work under the hood, and building practical solutions through automation.
+I’m an automation-focused engineer interested in how **RPA, AI, and intelligent agents can transform the way businesses build and execute processes**.
 
-My work sits at the intersection of **enterprise software, cloud-native technologies, automation, and customer-focused engineering**.
+I work with enterprise automation technologies and enjoy going beyond simply automating individual tasks — understanding the **process, the systems involved, the underlying technology, and how automation can make the entire workflow smarter**.
 
-## 💼 What I Do
+My interests span **RPA, intelligent automation, AI/ML, agentic systems, APIs, cloud-native technologies, and automation engineering**.
 
-* 🔧 Troubleshoot and investigate enterprise software issues
-* 🤖 Work with **UiPath automation technologies**
-* ☸️ Work with **Kubernetes and containerized environments**
-* 🐧 Diagnose issues across **Linux environments**
-* 🛠️ Analyze logs, configurations, deployments, and system behavior
-* 💡 Build scripts and tools to automate repetitive troubleshooting tasks
-* 📚 Continuously explore AI/ML and modern engineering practices
+---
 
-## 🛠️ Technical Skills
+## 🤖 What I'm Interested In
 
-### Automation & Enterprise
+* **RPA & Intelligent Automation**
+* **Agentic Automation & AI Agents**
+* **Process Discovery & Process Automation**
+* **Enterprise Automation**
+* **AI + RPA integration**
+* **Automation architecture**
+* **API-driven automation**
+* **Cloud-native automation**
 
-`UiPath` `RPA` `Workflow Automation`
+I’m particularly interested in the evolution from:
 
-### Cloud & DevOps
+**Task Automation → Process Automation → Intelligent Automation → Agentic Automation**
 
-`Kubernetes` `Docker` `Linux` `Git` `CI/CD`
+---
+
+## 🛠️ Technologies & Tools
+
+### Automation
+
+`UiPath` `RPA` `Workflow Automation` `Process Automation`
+
+### AI & Agentic Automation
+
+`Python` `AI/ML` `LLMs` `AI Agents` `Agentic Workflows`
+
+### Cloud & Infrastructure
+
+`Kubernetes` `Docker` `Linux`
 
 ### Programming
 
-`Python` `Java` `C` `JavaScript`
+`Python` `Java` `JavaScript` `C`
 
-### AI / ML
+### Data & APIs
 
-`Machine Learning` `AI` `Python`
+`REST APIs` `JSON` `MySQL` `MongoDB`
 
-### Databases
+### Engineering
 
-`MySQL` `MongoDB`
+`Git` `GitHub` `CI/CD` `Troubleshooting` `Automation Design`
 
-## 🚀 What You'll Find Here
+---
 
-This profile is a collection of my:
+## 🚀 What I'm Building
 
-* 🔬 Technical experiments and learning projects
-* 🐍 Python automation and troubleshooting utilities
-* ☸️ Kubernetes and Linux experiments
-* 🤖 AI/ML projects
-* 🧰 Developer and support-engineering tools
-* 📖 Technical notes and problem-solving explorations
+This GitHub is where I experiment with ideas around:
 
-## 🌱 Currently Learning
+* 🤖 RPA and intelligent automation
+* 🧠 AI-powered automation workflows
+* 🕹️ Agentic systems and autonomous task execution
+* 🔗 API-based integrations
+* 🐍 Python automation tools
+* ☸️ Cloud-native automation
+* 🔍 Automation utilities and developer tools
+* 🧪 AI/ML experiments
 
-* Kubernetes & cloud-native architecture
-* Linux troubleshooting and system internals
-* Advanced automation
-* AI/ML applications
-* Production troubleshooting and observability
+---
+
+## 💡 My Automation Philosophy
+
+> **Don't just automate the task. Understand the process, eliminate unnecessary work, and make the automation intelligent.**
+
+I'm interested in building automation systems that can:
+
+**Understand → Decide → Act → Validate → Adapt**
+
+rather than simply executing a predefined sequence of steps.
+
+---
+
+## 🌱 Currently Exploring
+
+* Agentic AI architectures
+* AI agents for enterprise automation
+* LLM-powered workflows
+* Intelligent document and process automation
+* RPA + AI integration
+* Kubernetes & cloud-native systems
+* Automation architecture and best practices
+
+---
 
 ## 🎓 Background
 
 **B.Tech — Computer Science & Engineering (AI & ML)**
 CMR Institute of Technology
 
-## 🤝 Let's Connect
-
-I'm interested in **automation, cloud-native technologies, AI/ML, Kubernetes, Linux, and solving challenging technical problems**.
-
 ---
 
-⭐ Feel free to explore my repositories and connect with me!
+## 🤝 Let's Connect
+
+I'm always interested in conversations around:
+
+**RPA • Intelligent Automation • AI Agents • Agentic Automation • AI/ML • Kubernetes • Enterprise Technology**
+
+If you're building something interesting in automation, I'd love to explore it.
+
+⭐ Feel free to explore my repositories.
