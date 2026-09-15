@@ -1,53 +1,71 @@
-<center>
-  <div id="header" align="center">
-    <img src="https://media.giphy.com/media/rIoxLYIJBnkcWLafTE/giphy.gif" width="300"/>
-  </div>
-  <div id="badges" align="center">
-    <a onclick="window.open(this.href,'_blank');return false;" href="https://www.linkedin.com/in/praveena-kolluri-781988200/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://wassuppl.wordpress.com/" target="_blank">
-    <img src="https://img.shields.io/badge/My%20Blog%20-808080" width="75">
-  </a>
-    <h1>
-  hey
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+# Hi 👋, I'm Praveena Kolluri
 
-<h1>About Me :</h1>
-- :telescope: I am a dynamic and versatile B.tech final year student, constantly expanding my knowledge in software development, content writing, and design. Avid learner
-  in the MERN stack and constantly exploring new technologies.
+**Product Support Engineer @ UiPath | Automation | Kubernetes | Linux | AI/ML**
 
-- :zap: What sets me apart is my exceptional communication skills, bridging the gap between technical and non-technical stakeholders while fostering teamwork and collaboration. I actively engage in extracurricular activities, giving captivating presentations and continuously seeking knowledge through webinars and seminars, with a strong commitment to lifelong learning.
+I’m a Product Support Engineer passionate about troubleshooting complex technical problems, understanding how systems work under the hood, and building practical solutions through automation.
 
-- :mailbox: Passionate, versatile, and driven by a hunger for knowledge, I seek opportunities to apply my diverse skill set, including content writing, design, exceptional communication, and team-building, to make a meaningful impact in any multifaceted role. mail me at praveenakolluri2002@gmail.com
-  
+My work sits at the intersection of **enterprise software, cloud-native technologies, automation, and customer-focused engineering**.
+
+## 💼 What I Do
+
+* 🔧 Troubleshoot and investigate enterprise software issues
+* 🤖 Work with **UiPath automation technologies**
+* ☸️ Work with **Kubernetes and containerized environments**
+* 🐧 Diagnose issues across **Linux environments**
+* 🛠️ Analyze logs, configurations, deployments, and system behavior
+* 💡 Build scripts and tools to automate repetitive troubleshooting tasks
+* 📚 Continuously explore AI/ML and modern engineering practices
+
+## 🛠️ Technical Skills
+
+### Automation & Enterprise
+
+`UiPath` `RPA` `Workflow Automation`
+
+### Cloud & DevOps
+
+`Kubernetes` `Docker` `Linux` `Git` `CI/CD`
+
+### Programming
+
+`Python` `Java` `C` `JavaScript`
+
+### AI / ML
+
+`Machine Learning` `AI` `Python`
+
+### Databases
+
+`MySQL` `MongoDB`
+
+## 🚀 What You'll Find Here
+
+This profile is a collection of my:
+
+* 🔬 Technical experiments and learning projects
+* 🐍 Python automation and troubleshooting utilities
+* ☸️ Kubernetes and Linux experiments
+* 🤖 AI/ML projects
+* 🧰 Developer and support-engineering tools
+* 📖 Technical notes and problem-solving explorations
+
+## 🌱 Currently Learning
+
+* Kubernetes & cloud-native architecture
+* Linux troubleshooting and system internals
+* Advanced automation
+* AI/ML applications
+* Production troubleshooting and observability
+
+## 🎓 Background
+
+**B.Tech — Computer Science & Engineering (AI & ML)**
+CMR Institute of Technology
+
+## 🤝 Let's Connect
+
+I'm interested in **automation, cloud-native technologies, AI/ML, Kubernetes, Linux, and solving challenging technical problems**.
+
 ---
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <h3> Frontend </h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp&nbsp;
-  <h3> Programming Languages </h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp&nbsp; 
-  <h3> Databases </h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MySQL"  alt="MongoDB" width="40" height="40"/>&nbsp&nbsp;
-  <h3> Tools </h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" **alt="Canva" width="40" height="40"/>&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-original-wordmark.svg" title="Codepen" **alt="Codepen" width="40" height="40"/>&nbsp&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp&nbsp;
-</div>
-      
-</center>
-
+⭐ Feel free to explore my repositories and connect with me!
